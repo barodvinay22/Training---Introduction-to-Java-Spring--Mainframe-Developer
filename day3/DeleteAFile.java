@@ -4,10 +4,10 @@ import java.io.File;
 public class DeleteAFile {
 	public static void main(String[] args)
 	{
-		File Obj = new File("myfile.txt");
-		if (Obj.delete()) {
+		File obj = new File("myfile");
+		if (obj.delete()) {
 			System.out.println("The deleted file is : "
-							+ Obj.getName());
+							+ obj.getName());
 		}
 		else {
 			System.out.println(

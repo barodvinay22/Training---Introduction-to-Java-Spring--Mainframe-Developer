@@ -1,10 +1,11 @@
 class CustomExceptionExample{
-    public static void main(String...args){
-        try{
+    public static void main(String...args) throws Exception
+    {
+        // try{
             throw new CustomException("Custom Exception");
-        }catch(CustomException cs){
-            System.out.print(cs.getMessage());   
-        }
+        // }catch(CustomException cs){
+        //     System.out.print(cs.getMessage());   
+        // }
     }
 }
 class CustomException extends Exception{

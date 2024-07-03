@@ -11,17 +11,18 @@ public class ReadFromFile {
 	public static void main(String[] args)
 	{
 		try {
-			File Obj = new File("myfile.txt");
-			Scanner Reader = new Scanner(Obj);
-			while (Reader.hasNextLine()) {
-				String data = Reader.nextLine();
+			File obj = new File("myfile");
+			Scanner reader = new Scanner(obj);
+			while (reader.hasNextLine()) {
+				String data = reader.nextLine();
 				System.out.println(data);
 			}
-			Reader.close();
+			reader.close();
 		}
 		catch (FileNotFoundException e) {
+			System.out.println(e.getMessage());
 			System.out.println("An error has occurred.");
-			e.printStackTrace();
+			//e.printStackTrace();
 		}
 	}
 }
