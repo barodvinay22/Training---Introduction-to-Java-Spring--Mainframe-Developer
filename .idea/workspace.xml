@@ -1,6 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="EclipseFormatter" />
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e74484c-5db5-4170-ba73-09c622f52127" name="Changes" comment="Day 3 code changes" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="tempD1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2igcJJ1XmL7fau27dZm1hAtXLsQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "main",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e74484c-5db5-4170-ba73-09c622f52127" name="Changes" comment="" />
+      <created>1719915588233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719915588233</updated>
+      <workItem from="1719915589686" duration="4001000" />
+    </task>
+    <task id="LOCAL-00001" summary="Changes in FinalKeywordDemo">
+      <option name="closed" value="true" />
+      <created>1719917422839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719917422839</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changes in FinalKeywordDemo">
+      <option name="closed" value="true" />
+      <created>1719917716013</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719917716013</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Changes in FinalKeywordDemo">
+      <option name="closed" value="true" />
+      <created>1719917864987</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719917864987</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Droping commit id 9411a767f6532bd7e6659df9980627d0587df4d7">
+      <option name="closed" value="true" />
+      <created>1719918295834</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719918295834</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Day 3 code changes">
+      <option name="closed" value="true" />
+      <created>1720004677958</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720004677958</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes in FinalKeywordDemo" />
+    <MESSAGE value="Droping commit id 9411a767f6532bd7e6659df9980627d0587df4d7" />
+    <MESSAGE value="Day 3 code changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 3 code changes" />
   </component>
 </project>

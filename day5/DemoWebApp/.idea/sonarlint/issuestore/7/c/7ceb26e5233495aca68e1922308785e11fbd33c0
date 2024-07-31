@@ -1,0 +1,38 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÏ¬J$5a5bec14-b03d-4283-8fc7-26eec09d2885
+u
+java:S1135"2Complete the task associated to this TODO comment.(¬ıÇ8œŠçŠ2J$8f58cc38-925b-4c7e-9ef4-44ffeb7b55fe
+}
+java:S1161":Add the "@Override" annotation above this method signature( Üó8ŸŠçŠ2J$61fc2eb8-0c32-44a9-a7ed-edc09090e648
+‚
+java:S1161#":Add the "@Override" annotation above this method signature(ş³‚”ûÿÿÿÿ8 ŠçŠ2J$682096f9-b9c5-461c-91bd-5e7a94813be2
+§
+java:S1989%"_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(®Ó‘ûÿÿÿÿÿ8¢ŠçŠ2J$4ccb923f-8780-4888-a24a-87d4270e846a
+}
+java:S1161(":Add the "@Override" annotation above this method signature(÷¤‹ú8£ŠçŠ2J$054120c2-876f-4c4e-a197-1a4300ee5b08
+¨
+java:S1989/"eHandle the following exceptions that could be thrown by "showNewForm": ServletException, IOException.(ßçÂ›8¤ŠçŠ2J$bd131a51-4ae5-42fe-90c5-696cf5f3c0bf
+”
+java:S19892"QHandle the following exception that could be thrown by "insertTodo": IOException.(­ÚÑ„8¥ŠçŠ2J$b4d793a3-794e-4c93-a37e-7043592e2dce
+”
+java:S19895"QHandle the following exception that could be thrown by "deleteTodo": IOException.(¢¦ü8¦ŠçŠ2J$973eb5e2-08c5-4b7c-ac9a-d00d342ec001
+©
+java:S19898"fHandle the following exceptions that could be thrown by "showEditForm": ServletException, IOException.(ÂõÓÁ8¦ŠçŠ2J$d3636f4e-2e0e-4a24-a3ef-00aa6ea4909d
+”
+java:S1989;"QHandle the following exception that could be thrown by "updateTodo": IOException.(åŞÆÏ8§ŠçŠ2J$0c66ded2-f6f5-4e1b-b6d8-a959e1a8ea21
+¥
+java:S1989>"bHandle the following exceptions that could be thrown by "listTodo": IOException, ServletException.(şáÃÇ8§ŠçŠ2J$574d3d8d-828e-4828-8153-0b9f4038e7db
+©
+java:S1989B"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ÜÕˆêøÿÿÿÿ8¨ŠçŠ2J$cc28d713-5e7b-45e8-a027-fe7e79c7604a
+‰
+java:S1989F"AHandle the "ServletException" thrown here in a "try/catch" block.(½óæ„úÿÿÿÿ8©ŠçŠ2J$df138f94-ac9b-405e-b0e3-0326e4d46b89
+¶
+java:S1130K"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(íú”æûÿÿÿÿ8ÔÓ’•Š2J$ec190551-0cb7-4f77-a5e5-254c5dee921a
+°
+java:S1130Y"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(šáÏ@8ÚÓ’•Š2J$0a104efa-b668-42dc-b2cb-7663201e0beb
+‰
+java:S2130k"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(á„­ªşÿÿÿÿ8°ŠçŠ2J$5a9a8153-bc9c-48fe-8db4-ba1ade550d28
+~	java:S125h"<This block of commented-out lines of code should be removed.(Öâ½§8²ŠçŠ2J$8a1ff1fe-de74-4cb8-bc86-9d09bfbc14c3
+}	java:S125w"<This block of commented-out lines of code should be removed.(ÚÄÁ:8¹ŠçŠ2J$3d97635b-64ca-4fd0-93fd-ded3dc424caa
+‰
+java:S2130z"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(á„­ªşÿÿÿÿ8ºŠçŠ2J$f501c604-cae8-4490-9b33-10960a4d1020

@@ -1,0 +1,9 @@
+
+„
+java:S1854"ARemove this useless assignment to local variable "zonedDateTime".(ç©·î8É·…ŠŠ2J$cacd175b-5328-48da-8f67-1d848b43150a
+r	java:S106"+Replace this use of System.out by a logger.(Óç¼ıÿÿÿÿ8Ñ·…ŠŠ2J$59a9a2f4-7002-4103-9bb7-cc21f1d26161
+r	java:S106"+Replace this use of System.out by a logger.(Ô„¢øÿÿÿÿ8×·…ŠŠ2J$85eb158c-d3e9-4965-ac47-1b31d60d549f
+r	java:S106"+Replace this use of System.out by a logger.(º²ëöøÿÿÿÿ8İ·…ŠŠ2J$8a8beaea-d968-4376-bbd3-1a075dfebef4
+u
+java:S1481"2Remove this unused "zonedDateTime" local variable.(ç©·î8á·…ŠŠ2J$72a2e6ff-be23-4690-afc2-6ca58e69433a
+L	java:S106"+Replace this use of System.out by a logger.(º²ëöøÿÿÿÿ8ÕÓ…ŠŠ2

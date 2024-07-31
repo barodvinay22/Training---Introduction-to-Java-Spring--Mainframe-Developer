@@ -1,0 +1,6 @@
+
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¦ß²J$f122ef4b-5907-44a6-a951-361998596759
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îÁÐãþÿÿÿÿJ$2728e752-d791-4c33-b74a-d227984e8c8c
+–
+java:S1130"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(šý®ž8¥ýÇ´Š2
+k	java:S106"+Replace this use of System.out by a logger.(µâ£äþÿÿÿÿJ$032855d2-c550-4047-b701-aaff64d8a016

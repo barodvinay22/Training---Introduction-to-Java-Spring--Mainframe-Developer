@@ -1,0 +1,17 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀöÊ¸J$d70e1015-ca24-4f68-b23a-729a5102ad07
+{
+java:S1118	":Add a private constructor to hide the implicit public one.(ä¦”±øÿÿÿÿJ$0fa69239-fca0-43a9-85ca-472526ee94c4
+€
+java:S2147"DCombine this catch with the one at line 20, which has the same body.(ıàÑÎJ$27dad447-3ab7-49c3-a3af-75a14a588ad0
+n
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿJ$6a882495-55b8-4ce8-9f4f-d53f080005f9
+s
+java:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿJ$cb7cea30-b579-4007-abb0-0a25c84240f7
+s
+java:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿJ$9f0b0b9e-87dd-49b9-b2f7-13b1534d0907
+f	java:S106!"+Replace this use of System.err by a logger.(Îã­ÃJ$21f4c0bb-8477-420c-b5cb-27f2f9ea1842
+k	java:S106""+Replace this use of System.err by a logger.(íŠÚçüÿÿÿÿJ$2b833099-9fa3-4892-a374-6d21ea5b5537
+k	java:S106#"+Replace this use of System.err by a logger.(×ãìüÿÿÿÿJ$6f54ca17-1271-4b69-971b-7a95ddb9e9fe
+k	java:S106$"+Replace this use of System.err by a logger.(îöÁÑøÿÿÿÿJ$a9704ae3-d9c8-4aae-acb2-94064582e738
+f	java:S106'"+Replace this use of System.out by a logger.(†ÚÂàJ$38b22766-5d44-4a1a-9661-d645789a9a42

@@ -1,0 +1,12 @@
+
+N
+java:S1854"8Remove this useless assignment to local variable "data".(É˜Š„
+E
+java:S1197"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ
+?
+java:S1481")Remove this unused "data" local variable.(É˜Š„
+@	java:S106"+Replace this use of System.out by a logger.(ð–ªè
+Q	java:S125	"<This block of commented-out lines of code should be removed.(ØÅþÇ
+E	java:S106"+Replace this use of System.out by a logger.(©þêÜúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(§Ž‚ñÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(×›‰Èýÿÿÿÿ

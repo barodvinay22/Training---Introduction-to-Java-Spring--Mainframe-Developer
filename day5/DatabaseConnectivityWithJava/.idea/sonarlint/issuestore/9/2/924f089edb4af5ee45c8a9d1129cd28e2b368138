@@ -1,0 +1,12 @@
+
+
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(íñéşÿÿÿÿ8ÎëşŠŠ2J$6c8a1042-a659-40c5-9416-eec002461c9f
+‹
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(Ü´Ê8ÔëşŠŠ2J$9bae17b5-c8d3-4b6a-b231-de76e3a0fa71
+m
+java:S3457"%String contains no format specifiers.(Šª„ıÿÿÿÿ8…ìşŠŠ2J$dd903125-49cc-452a-a5ae-ab8a71501fa3
+r	java:S106"+Replace this use of System.out by a logger.(Šª„ıÿÿÿÿ8ìşŠŠ2J$78ecd311-0e80-43ab-b93e-66b7a79f9164
+r	java:S106"+Replace this use of System.out by a logger.(Ğö¶üÿÿÿÿ8™ìşŠŠ2J$3911bdda-6a2a-4190-ab8f-c25430a1fd70
+]	java:S125"<This block of commented-out lines of code should be removed.(ğœÛ”ıÿÿÿÿ8Û™‚‹Š2
+l
+java:S2115")Add password protection to this database.(Ü´Ê8¨ìşŠŠ2J$9ba17f30-a037-496e-a752-619b57b5f556

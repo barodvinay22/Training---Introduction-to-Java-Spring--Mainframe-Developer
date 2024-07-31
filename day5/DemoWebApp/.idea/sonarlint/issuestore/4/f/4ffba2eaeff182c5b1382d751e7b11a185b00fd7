@@ -1,0 +1,7 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îÁÐãþÿÿÿÿJ$61881190-592d-4b82-9434-df8555992ca7
+n
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿJ$7df0cf94-e22b-4902-80bc-85dd492a8124
+`
+java:S6905"Don't use the query "SELECT *".(ÜààºüÿÿÿÿJ$aba52594-90d5-4675-ae19-c22dd39a74c2
+k	java:S106"+Replace this use of System.out by a logger.(µâ£äþÿÿÿÿJ$e4e0e256-d63e-4e6c-a0a7-8e8f27df843b

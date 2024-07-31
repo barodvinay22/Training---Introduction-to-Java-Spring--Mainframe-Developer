@@ -1,0 +1,12 @@
+# cat docker-compose.yml
+version: '3.3'
+services:
+  mysql:
+    image: mysql:5.7.18
+    # Set max_allowed_packet to 512M for provisioning
+    command: --max-allowed-packet=512M --performance-schema=FALSE --transaction-isolation=READ-COMMITTED --init-connect='SET collation_connection=utf8_bin' --init-connect='SET NAMES utf8;' --character-set-server=utf8 --collation-server=utf8_bin --lower-case-table-names=2 --max-connections=500 --ssl=DISABLED 
+    container_name: training_mysql1
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+    ports:
+     - "3306:3306"

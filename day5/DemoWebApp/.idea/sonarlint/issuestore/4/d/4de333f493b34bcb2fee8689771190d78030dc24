@@ -1,0 +1,10 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îÁÐãþÿÿÿÿJ$01574b45-6dbe-4f1a-a766-356dad7e1845
+½
+java:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ø‚ŸÿJ$a740ff39-9435-4f28-9773-acdf87706e5b
+k	java:S106%"+Replace this use of System.out by a logger.(Úü‹ìùÿÿÿÿJ$6f7f99b8-2e37-44cc-afd6-9e0ad6956fe2
+k	java:S106."+Replace this use of System.out by a logger.(µâ£äþÿÿÿÿJ$933eb88a-320d-4a47-8431-594b373ef1b4
+k	java:S106="+Replace this use of System.out by a logger.(µâ£äþÿÿÿÿJ$ce2bb2f9-d73b-42c3-bbeb-dd89b059f3cf
+[
+java:S6905"Don't use the query "SELECT *".(Éß›µJ$bba635dd-9c72-47c9-b077-b63ea97145eb
+k	java:S106\"+Replace this use of System.out by a logger.(µâ£äþÿÿÿÿJ$c9196c18-e543-4bd2-b537-d963e1bec32c

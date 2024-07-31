@@ -1,0 +1,55 @@
+openapi: 3.0.3
+info:
+  title: Notification
+  description: |-
+  version: 1.0.11
+servers:
+  - url: https://localhost:8080/api/v3
+tags:
+  - name: Notification
+    description: Notification endpoints
+paths:
+  /notifications:
+    get:
+      tags:
+        - Notification
+      summary: Get All Notifications
+      description: Get All Notifications
+      operationId: getNotifiations
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Notification'
+        '400':
+          description: Invalid ID supplied
+        '404':
+          description: Notification not found
+        '422':
+          description: Validation exception
+    post:
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Notification'
+      responses:
+        '201':
+          description: Successful Created
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Notification'
+components:
+  schemas:
+    Notification:
+      type: object
+      properties:
+        id:
+          type: integer
+          format: int64
+          example: 10
+        sendMechanism:
+          type: string

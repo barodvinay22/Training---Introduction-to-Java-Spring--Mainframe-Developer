@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd"
+         version="5.0">
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+        <welcome-file>index.html</welcome-file>
+    </welcome-file-list>
+    <servlet>
+        <servlet-name>HelloServlet</servlet-name>
+        <servlet-class>com.example.demowebapp.HelloServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>HelloServlet</servlet-name>
+        <url-pattern>/hello-servlet</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>AdminServlet</servlet-name>
+        <servlet-class>com.example.demowebapp.AdminServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>AdminServlet</servlet-name>
+        <url-pattern>/servlet1</url-pattern>
+    </servlet-mapping>
+
+    <filter>
+        <filter-name>f1</filter-name>
+        <filter-class>com.example.demowebapp.filter.MyFilter</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>f1</filter-name>
+        <url-pattern>/servlet1</url-pattern>
+    </filter-mapping>
+
+
+    <servlet>
+        <servlet-name>UserController</servlet-name>
+        <servlet-class>com.example.demowebapp.todoApp.web.UserController</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UserController</servlet-name>
+        <url-pattern>/register</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>LoginController</servlet-name>
+        <servlet-class>com.example.demowebapp.todoApp.web.LoginController</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LoginController</servlet-name>
+        <url-pattern>/login</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>TodoController</servlet-name>
+        <servlet-class>com.example.demowebapp.todoApp.web.TodoController</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>TodoController</servlet-name>
+        <url-pattern>/</url-pattern>
+    </servlet-mapping>
+</web-app>

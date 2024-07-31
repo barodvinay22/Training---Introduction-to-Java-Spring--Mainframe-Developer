@@ -1,0 +1,12 @@
+
+Y
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(ó¶¼
+E
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(šÒ»½
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¯—á´
+@	java:S106"+Replace this use of System.out by a logger.(şõş÷
+P
+java:S1161":Add the "@Override" annotation above this method signature(ÂîÆ
+@	java:S106"+Replace this use of System.out by a logger.(Á³‚À
